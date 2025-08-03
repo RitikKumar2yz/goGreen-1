@@ -40,6 +40,3 @@ const makeCommits = (n) => {
   });
 };
 
-// 🟢 Start making commits
-makeCommits(1000);
-
